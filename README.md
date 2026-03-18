@@ -1,2 +1,3 @@
 # web_scraping_analisis_datos
-Automatizacion de extracción, limpieza y analisis de datos web mediante python (Web Scraping, pandas, visualizacion)
+
+iste en la automatización de extracción de datos desde múltiples páginas web, su procesamiento y análisis utilizando Python.
